@@ -1,7 +1,7 @@
 ##########################################
 # 站点配置
 
-baseURL = "https://sunfangjie.com/"
+baseURL = "https://SleepDevil.github.io/blog"
 title = "SleepDevil"
 languageCode = "zh-CN"
 hasCJKLanguage = true
