@@ -2,14 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://SleepDevil.github.io/blog/thinking/2022-10-1/</loc>
-    <lastmod>2022-10-01T23:31:40+08:00</lastmod>
-  </url><url>
     <loc>https://SleepDevil.github.io/blog/</loc>
-    <lastmod>2022-10-01T23:31:40+08:00</lastmod>
+    <lastmod>2022-10-09T15:19:55+08:00</lastmod>
   </url><url>
     <loc>https://SleepDevil.github.io/blog/thinking/</loc>
-    <lastmod>2022-10-01T23:31:40+08:00</lastmod>
+    <lastmod>2022-10-09T15:19:55+08:00</lastmod>
+  </url><url>
+    <loc>https://SleepDevil.github.io/blog/thinking/tomorrow-or-accident/</loc>
+    <lastmod>2022-10-09T15:19:55+08:00</lastmod>
+  </url><url>
+    <loc>https://SleepDevil.github.io/blog/thinking/2022-10-1/</loc>
+    <lastmod>2022-10-01T23:38:08+08:00</lastmod>
   </url><url>
     <loc>https://SleepDevil.github.io/blog/technology/</loc>
     <lastmod>2022-09-28T21:02:25+08:00</lastmod>
