@@ -304,7 +304,7 @@ uglyURLs = false
 
     ## 「诗意人生」
     # 诗句，支持 Markdown
-    homePoetry = ["<br><br>三千繁华<br>弹指刹那<br>百年之后<br>不过一捧黄沙"]
+    homePoetry = ["<br><br>三千繁华<br>弹指刹那<br>百年之后<br>不过一捧黄沙<br><br><br><br>向江南折过花<br>对春风与红蜡<br>多情总似我风流爱天下"]
     # 底部链接的内间距，单位：em
     homeLinksPadding = 1
 
