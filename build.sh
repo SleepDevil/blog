@@ -7,7 +7,7 @@ if [[ "$VERCEL_GIT_COMMIT_REF" == "gh-pages" ]] ; then
   exit 0;
   else
   # Proceed with the build
-    exit 1;
+    exit 0;
 fi
 
 if [ -z ${BASE_URL} ]; then
