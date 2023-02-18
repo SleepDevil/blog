@@ -196,6 +196,12 @@ uglyURLs = false
     #     pre = "internal"
     #     post = "home"
     [[menu.main]]
+        url = "/oldboy/"
+        name = "OldBoy"
+        weight = 1
+        pre = "internal"
+    [[menu.main]]
+    [[menu.main]]
         url = "/technology/"
         name = "Technology"
         weight = 2
