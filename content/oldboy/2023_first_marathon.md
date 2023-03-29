@@ -50,7 +50,19 @@ draft: false
 
 ### Day2
 ![](https://s3.bmp.ovh/imgs/2023/03/20/14cdb50a21c32781.jpg "早晨的西陵峡路")
+![](https://s3.bmp.ovh/imgs/2023/03/21/d414aa2d92fed58d.jpg)
+![](https://s3.bmp.ovh/imgs/2023/03/21/678f7e7673fe5ab3.jpg "太阳即将冲出重雾")
+![](https://s3.bmp.ovh/imgs/2023/03/21/1b18037d963d39be.jpg "高升的太阳")
+![](https://s3.bmp.ovh/imgs/2023/03/21/fed1e3b87c98043d.jpg "天主教堂")
+![](https://s3.bmp.ovh/imgs/2023/03/21/f6b7fc7ba093e098.jpg)
+![](https://s3.bmp.ovh/imgs/2023/03/21/2928722ed0ea9998.jpg "红房子音乐家")
+![](https://s3.bmp.ovh/imgs/2023/03/21/0d8821dd8822de49.jpg "早餐：青岛小馄饨＋肉火烧")
 
-
+![](https://s3.bmp.ovh/imgs/2023/03/21/431e99f69d0e3162.jpg "地铁到麦岛站")
+![](https://s3.bmp.ovh/imgs/2023/03/21/61eeb2ee98a72bfb.jpg "走到小麦岛了")
+![](https://s3.bmp.ovh/imgs/2023/03/21/8924e83f41161c63.jpg)
+![](https://s3.bmp.ovh/imgs/2023/03/21/bef221faa5efa0d7.jpg "小麦岛附近的青岛自由女神像？")
+![](https://s3.bmp.ovh/imgs/2023/03/21/14be70c2342d69b7.jpg "岛上的售卖机全是崂山可乐")
+![](https://s3.bmp.ovh/imgs/2023/03/21/ca60975e6a316550.jpg "岛上的海景")
 
 
